@@ -1,9 +1,9 @@
 {
   "name": "FireTV Server",
   "version": "0.5",
-  "slug": "firetv-server",
+  "slug": "firetvserver",
   "description": "FireTV Server hass.io add-on",
-  "url": "https://github.com/gollo/hassio-addons/tree/master/firetv-server",
+  "url": "https://github.com/jefflirion/hassio-addons/tree/master/firetv-server",
   "startup": "before",
   "boot": "auto",
   "options": {
