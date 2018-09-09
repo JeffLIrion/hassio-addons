@@ -1,3 +1,8 @@
+# Deprecated!!!
+
+(From @JeffLIrion) This addon is deprecated.  Please use the [Fire TV custom component](https://github.com/JeffLIrion/homeassistant_native_firetv) for Home Assistant instead.  
+
+
 # hassio-addons
 Addons for hass.io
 
